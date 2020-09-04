@@ -1,0 +1,5 @@
+1. Defina en sus palabras que es la calidad de software.
+
+Respuesta: 
+
+La calidad de software es la habilidad de establecer o satisfacer las necesidades del cliente, para garantizar el correcto funcionamiento de las aplicaciones tanto moviles como de la web.

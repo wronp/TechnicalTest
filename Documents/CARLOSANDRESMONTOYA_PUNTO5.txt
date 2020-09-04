@@ -1,0 +1,7 @@
+5. Describa en desarrollo de software que es la herencia y que es el polimorfismo
+
+Respuesta:
+
+Herencia: Es la habilidad que se le da a una clase hija de utilizar todos los metodos o funciones que tiene la clase padre para ayudarnos a reutilizar codigo y evitarnos tener codigo duplicado por distintas partes del codigo.
+
+Polimorfismo: Se refiere un objeto o metodo y como se le pueden dar diferentes usos, un ejemplo de esto seria el metodo imprimir, que aun que solo se define una sola vez, lo podemos utilizar n cantidad de veces, dando siempre resultados diferentes sin generar errores.

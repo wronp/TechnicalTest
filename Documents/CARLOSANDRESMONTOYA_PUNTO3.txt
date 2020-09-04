@@ -1,0 +1,7 @@
+3. ¿Cuál es el comando utilizado en git para clonar un proyecto?
+
+Respuesta:
+
+Se utiliza el comando "git clone" para descargar un proyecto en especifico que necesitemos, poniendo como ejemplo, este caso en concreto, cree un repositorio en la pagina de Git, me diriji al lugar donde deseo trabajar en mi ordenador, abri Git Bash con clic derecho, inicialice el lugar de trabajo y descargue el repositorio con el comando: 
+
+	git clone https://github.com/wronp/TechnicalTest.git 

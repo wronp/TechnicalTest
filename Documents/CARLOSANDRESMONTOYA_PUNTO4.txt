@@ -1,0 +1,25 @@
+4. ¿Qué realizan los siguientes comandos de git?
+
+	a. git add -miClase
+	b. git add -A
+	c. git status
+	d. git pull
+	e. git push
+	f. git commit -m “Hola”
+	g. git log
+
+Respuesta:
+
+a. Genera un error ya que el comando -miClase no hace parte de las funciones de Git.
+
+b. Agrega y/o guarda todos los cambios que se encuentren en los archivos.
+
+c. Muestra los cambios que se han realizado en los archivos y si se han guardado o no.
+
+d. Descarga los cambios o actualizaciones que hayan en el repositorio.
+
+e. Envia los cambios que se agregaron desde el ordenador al repositorio central.
+
+f. Despues de agregar o guardar los cambios, se utiliza este comendo para darle un nombre a dichos cambios, para con esto poder identificar que se realizo en cada cambio que se hizo en el pasado.
+
+g. Muestra los commits o titulos de los cambios en el pasado, en caso de que necesitemos revizar o mirar algo realizado con anterioridad.

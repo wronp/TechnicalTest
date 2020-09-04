@@ -1,0 +1,9 @@
+2. Explique la diferencia entre un sistema de control de versiones centralizado y un sistema de control de versiones distribuido.
+
+Respuesta: 
+
+- Sistema de Control de Versiones Centralizado: Permite el trabajo de multiples desarrolladores en un solo proyecto, pero este se guarda en un servidor, en vez de los equipos locales de los desarrolladores. Ejemplo, CVS, Subversion.
+
+- Sistema de Control de Versiones Distribuido: Trabaja de maneja distinta al centralizado, no utiliza servidores y no cuenta con un repositorio central, sino que cada desarrollador cuenta con su propia cuenta. Ejemplo: Git, Bazaar.
+
+Diferencias entre las dos versiones: Uno se trabaja con una fuente central de codigo, mientras que el otro tiene sus copias de manera local en diferentes maquinas.
